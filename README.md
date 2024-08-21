@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Bachelors of Computer Application at Shivaji University.\
 🌱 &nbsp;I'm on track for learning more about Backend Development, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Coding Challenges and Building Personal Projects as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I pursue Coding Challenges and Building Personal Projects as hobbies/side hustles.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
